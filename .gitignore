@@ -1,0 +1,4 @@
+lambdas/.venv
+lambdas/package/*
+download_videos/videos
+.idea
