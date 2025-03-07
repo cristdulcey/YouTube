@@ -2,3 +2,7 @@ lambdas/.venv
 lambdas/package/*
 download_videos/videos
 .idea
+azure/.venv
+azure/.idea
+firebase/.venv
+firebase/functions/venv
