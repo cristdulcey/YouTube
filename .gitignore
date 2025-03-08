@@ -6,3 +6,5 @@ azure/.venv
 azure/.idea
 firebase/.venv
 firebase/functions/venv
+requests/.venv
+
